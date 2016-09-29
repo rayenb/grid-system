@@ -9,3 +9,5 @@
 * Revisa que repositorios remotos existan
 
 Para mas informacion: [Ir a laboratoria](http://www.laboratoria.la)
+
+![Alt-Text](img/flujo.jpg)
